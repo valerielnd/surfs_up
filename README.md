@@ -17,11 +17,11 @@ The list of deliverables for the project is:
 
 We are given access to an SQLite database that stores the weather data to realize the analysis.
 
-- [hawaii.sqlite]()
+- [hawaii.sqlite](https://github.com/valerielnd/surfs_up/blob/main/hawaii.sqlite)
 
 We used Python libraries Pandas, Numpy, and sqlalchemy and Anaconda's Jupyter Notebook to do the analysis.
 
-- [Challenge Analysis]()
+- [Challenge Analysis](https://github.com/valerielnd/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
 
 
 ## Analysis results
@@ -32,7 +32,7 @@ To provide investor W. Avy with an overview of June weather in Oahu, we computed
 analysis such as the mean, standard deviation, minimum, and maximum. Those hard results 
 will help determine trends in the data.
 
-![june_statistics]()
+![june_statistics](https://github.com/valerielnd/surfs_up/blob/main/june_stats.png)
 
 As we can see in the results obtained from the calculations of the mean, minimum, maximum, standard 
 deviation and percentiles using the describe() function from Pandas, the temperature 
@@ -55,7 +55,7 @@ in June, the first summer month, is favorable to the surf and ice cream shop bus
 To provide investor W. Avy with an overview of December weather in Oahu, we computed statistical 
 analysis such as the mean, standard deviation, minimum, and maximum. 
 
-![dec_statistics]()
+![dec_statistics](https://github.com/valerielnd/surfs_up/blob/main/dec_stats.png)
 
 As we can see in the results obtained from the calculations of the mean, minimum, maximum, standard 
 deviation and percentiles using again the describe() function from Pandas module, the temperature 
